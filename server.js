@@ -40,6 +40,7 @@ async function connectDB() {
 
 connectDB();
 app.get("/collections/:collectionName", async function (req, res) {
+  
 
 })
 
