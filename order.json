@@ -1,15 +1,15 @@
 [{
-    "itemId":1001,
-  "name": "John Doe",
+    "customerName": "John Doe",
+  "lessonId": 1,
   "quantity": 2
 },
 {
-    "itemId":1002,
-  "name": "Thompson vue",
-  "quantity": 2
+    "lessonId":1002,
+  "customerName": "Thompson vue",
+  "quantity": 3
 },
 {
     "itemId":1003,
-  "name": "Adiel Brown",
-  "quantity": 2
+  "customerName": "Adiel Brown",
+  "quantity": 3
 }]
