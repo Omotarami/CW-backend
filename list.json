@@ -5,7 +5,7 @@
   "subject": "Mathematics",
   "location": "London",
   "price": 100,
-  "space": 10
+  "space":5
 },
 {
   "itemId": 1002,
@@ -13,7 +13,7 @@
   "subject": "Science",
   "location": "Manchester",
   "price": 229,
-  "space": 10
+  "space": 5
 },
 {
   "itemId": 1003,
@@ -21,7 +21,7 @@
   "subject": "Art",
   "location": "leichester",
   "price": 486,
-  "space": 10
+  "space": 5
 },
 {
   "itemId": 1004,
@@ -29,7 +29,7 @@
   "subject": "Social Studies",
   "location": "Chester",
   "price": 60,
-  "space": 10
+  "space": 5
 },
 {
   "itemId": 1005,
@@ -37,7 +37,7 @@
   "subject": "French",
   "location": "New Castle",
   "price": 180,
-  "space": 10
+  "space":5
 },
 {
   "itemId": 1006,
@@ -45,7 +45,7 @@
   "subject": "Programming for kids",
   "location": "Bradford",
   "price": 860,
-  "space": 10
+  "space": 5
 },
 {
   "itemId": 1007,
@@ -53,7 +53,7 @@
   "subject": "History",
   "location": "Winchester",
   "price": 240,
-  "space": 10
+  "space": 5
 },
 {
   "itemId": 1008,
@@ -61,7 +61,7 @@
   "subject": "English",
   "location": "Sheffield",
   "price": 610,
-  "space": 10
+  "space": 5
 },
 {
   "itemId": 1009,
@@ -69,7 +69,7 @@
   "subject": "Physical Education",
   "location": "Yorkshire",
   "price": 170,
-  "space": 10
+  "space": 5
 },
 {
   "itemId": 1010,
@@ -77,6 +77,6 @@
   "subject": "Music",
   "location": "Chester",
   "price": 285,
-  "space": 10
+  "space": 5
 }
 ]
