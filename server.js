@@ -39,6 +39,9 @@ async function connectDB() {
 }
 
 connectDB();
+app.get("/collections/:collectionName", async function (req, res) {
+
+})
 
 app.use((err, req, res, next) => {
   console.error("Global error handler:", err);
